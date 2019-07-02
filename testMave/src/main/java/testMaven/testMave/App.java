@@ -14,8 +14,8 @@ public class App
         System.out.println( "Hello World! for dev" );
         System.out.println( "Hello World! for dev" );
         
-        System.out.println( "Hello World! for dev--master--dev22" );
-        System.out.println( "Hello World! for dev--master--dev233" );
+        System.out.println( "Hello World! for dev--master" );
+        System.out.println( "Hello World! for dev--master" );
         
         
     }
