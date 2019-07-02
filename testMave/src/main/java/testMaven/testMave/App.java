@@ -14,11 +14,7 @@ public class App
         System.out.println( "Hello World! for dev" );
         System.out.println( "Hello World! for dev" );
         
-<<<<<<< HEAD
         System.out.println( "Hello World! for dev--master--dev1-modify" );
-=======
-        System.out.println( "Hello World! for dev--master" );
->>>>>>> refs/heads/dev2
         System.out.println( "Hello World! for dev--master" );
         
         
